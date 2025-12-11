@@ -14,7 +14,7 @@ NeuSymEA is an entity alignment framework driven by neuro-symbolic reasoning, of
 
 - **❶ Low resource requirement:** achieving 73.7% hit@1 accuracy on $DBP15K_{FR-EN}$ with only 1% pairs as seed alignments.
 - **❷ Explanation over KGs:** NeuSymEA's rule mining interpretable alignment results, enabling users to trace the reasoning process of alignment.
-- **❸ Scalabile to large KGs:** NeuSymEA can handle large-scale KGs efficiently, consistently outperforming state-of-the-art methods.
+- **❸ Scalable to large KGs:** NeuSymEA can handle large-scale KGs efficiently, consistently outperforming state-of-the-art methods.
 
 
 > Scalability analysis on large scale KGs. (Left) Hit@1 alignment performance on large KGs. (Right) Per-second processed entities of neural and symbolic components on different scales of KGs.
